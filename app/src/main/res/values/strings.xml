@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidDatePicker</string>
+    <string name="open_date_picker">Open Date Picker</string>
+    <string name="selected_date">Selected Date</string>
+</resources>
